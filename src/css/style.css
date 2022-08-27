@@ -85,12 +85,12 @@ svg{
 
 .navbar_link:first-child{
     animation-name: nav-first-link-load;
-    transform: translateX(-1000%)
+    transform: translateX(-1000%);
 }
 
 .navbar_link:last-child{
     animation-name: nav-last-link-load;
-    transform: translateX(1000%)
+    transform: translateX(1000%);
 }
 
 .navbar_link a{
